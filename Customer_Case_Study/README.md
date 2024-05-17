@@ -1,5 +1,5 @@
 # CORE JAVA
-**This repository contains a solution for a customer case study, focusing on implementing 
+**This Folder contains a solution for a customer case study, focusing on implementing 
 functionality related to user management using the Java Collection Framework.**
 
 *Features Implemented:
