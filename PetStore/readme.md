@@ -1,6 +1,6 @@
 # Pet Store Application
 
-This repository contains a Java console-based application for a Pet Store, designed to manage pets and orders. 
+This project contains a Java console-based application for a Pet Store, designed to manage pets and orders. 
 The application includes functionalities for both store owners (admins) and customers.
 
 ## Functionality Overview
