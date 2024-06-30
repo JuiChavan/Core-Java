@@ -1,6 +1,6 @@
 # StyleWithPen Stock Management Console Application
 
-This repository contains a Java console-based application developed for managing pen stocks for StyleWithPen, an online retailer specializing in stylish pens.
+This project contains a Java console-based application developed for managing pen stocks for StyleWithPen, an online retailer specializing in stylish pens.
 
 ## Functionality
 
